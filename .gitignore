@@ -1,0 +1,4 @@
+# Editor / tool internals
+.claude/
+.obsidian/
+.vscode/
