@@ -1,0 +1,6 @@
+# 3D / CAD exports and images are binary — store verbatim, never line-ending-convert
+*.stl binary
+*.3mf binary
+*.obj binary
+*.amf binary
+*.png binary
